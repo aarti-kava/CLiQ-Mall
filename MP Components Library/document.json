@@ -42,7 +42,9 @@
     "version": 127
   },
   "pages": [
-    "Page 1"
+    "Color Style Sheet",
+    "Color Usage",
+    "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
