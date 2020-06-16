@@ -1,5 +1,6 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
+  "allowsOverrides": true,
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +9,9 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 11,
   "clippingMaskMode": 0,
-  "do_objectID": "4FA0B9EB-AB2B-402F-AD9F-B03DB298DB68",
+  "do_objectID": "709A1DB3-2B50-473A-B56E-96B070258C2A",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +24,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
-    "width": 1440,
-    "x": 46,
-    "y": -56
+    "height": 18,
+    "width": 62,
+    "x": 100,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
@@ -40,6 +42,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -47,61 +50,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "text",
-      "id": "62DD5C6A-FAF8-42C3-8999-47240F14D612"
-    },
-    {
-      "class": "text",
-      "id": "203D48FD-788F-48E1-9F30-18959D46D79D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "435B62D3-07B6-4AF8-BCB3-18E15423B01E"
-    },
-    {
-      "class": "text",
-      "id": "3D3F47A4-DE32-45FD-A5AC-DD3DF7EA67F3"
-    },
-    {
       "class": "group",
-      "id": "0220A6F3-E74C-4836-AFB9-CF11A60009FC"
-    },
-    {
-      "class": "text",
-      "id": "76CBE588-6F29-434D-9A4D-79E147D00F6D"
-    },
-    {
-      "class": "text",
-      "id": "910CE781-4BDB-46E1-A509-19C2D6223315"
-    },
-    {
-      "class": "text",
-      "id": "364C868F-9C10-4911-B2E7-CEB078561215"
-    },
-    {
-      "class": "text",
-      "id": "F458D462-BF88-4BA2-A7D8-141F0D5E5BEC"
-    },
-    {
-      "class": "text",
-      "id": "2F4850A9-C7EC-4191-9A07-07638FF76862"
-    },
-    {
-      "class": "text",
-      "id": "8F9BBC4E-9B1F-42B6-AFE6-55D0BE129604"
+      "id": "7B684071-B325-4361-BCCE-A5A7E926D34F"
     }
   ],
-  "name": "Desktop",
+  "name": "a/Ratings lozenge",
   "nameIsFixed": false,
+  "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "AE6EE18D-7632-45E5-8FED-B3569828C41E_stringValue"
+    }
+  ],
   "presetDictionary": {
-    "allowResizedMatching": 0,
-    "height": 1024,
-    "name": "Desktop HD",
-    "offersLandscapeVariant": 0,
-    "width": 1440
   },
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -142,7 +107,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "4E9F446F-CF88-4834-B0BD-F2E1A2213F1D",
+    "do_objectID": "019E62C7-24B6-4586-AE8A-C88E434EFDD7",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -154,6 +119,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "FA6387D4-9AD9-448A-8548-33FB992CF2C9",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

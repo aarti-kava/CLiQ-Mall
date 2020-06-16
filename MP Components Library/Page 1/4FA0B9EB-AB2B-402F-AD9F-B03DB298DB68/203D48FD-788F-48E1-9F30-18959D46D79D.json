@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PingFangSC-Regular",
-              "size": 12
+              "name": "Rubik-Regular",
+              "size": 30
             }
           },
           "kerning": 0,
@@ -28,16 +28,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 9,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "fgergheth"
+    "string": "Green"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "53C71F92-333F-49E2-8CAF-BA052953B62F",
+  "do_objectID": "203D48FD-788F-48E1-9F30-18959D46D79D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 17,
-    "width": 54,
-    "x": 729,
-    "y": 684
+    "height": 36,
+    "width": 84,
+    "x": 71,
+    "y": 213
   },
-  "glyphBounds": "{{0, 4}, {54, 12}}",
+  "glyphBounds": "{{1, 6}, {81, 23}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "fgergheth",
+  "name": "Green",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -105,7 +105,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "03DD4C9A-99BC-48ED-8AF0-B2733DDED2FA",
+    "do_objectID": "1D6E5476-29C5-47B2-8CE3-CA40A286A13A",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -128,8 +128,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "PingFangSC-Regular",
-            "size": 12
+            "name": "Rubik-Regular",
+            "size": 30
           }
         },
         "kerning": 0,
