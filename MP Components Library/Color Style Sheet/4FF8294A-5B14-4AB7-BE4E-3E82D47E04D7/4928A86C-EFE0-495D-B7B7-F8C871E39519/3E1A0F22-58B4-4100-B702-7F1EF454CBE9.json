@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "#F0FAF7"
+    "string": "#F2FAF8"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "#F0FAF7",
+  "name": "#F2FAF8",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

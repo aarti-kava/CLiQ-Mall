@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "#FF6C3D"
+    "string": "#4863E0"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,8 +50,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 66,
-    "x": 407.5,
+    "width": 65,
+    "x": 408,
     "y": 0
   },
   "glyphBounds": "{{0, 3}, {65, 12}}",
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "#FF6C3D Copy",
+  "name": "#4863E0",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

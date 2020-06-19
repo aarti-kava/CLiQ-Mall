@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "#FF6C3D"
+    "string": "#84C853"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "#FF6C3D Copy",
+  "name": "#84C853",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

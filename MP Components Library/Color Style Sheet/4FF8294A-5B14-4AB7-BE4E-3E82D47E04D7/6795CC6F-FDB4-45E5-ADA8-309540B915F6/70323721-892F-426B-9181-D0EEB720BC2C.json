@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "#c0babc"
+    "string": "#C0BEBF"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 63,
-    "x": 489,
+    "width": 68,
+    "x": 486.5,
     "y": 0
   },
-  "glyphBounds": "{{0, 3}, {62, 12}}",
+  "glyphBounds": "{{0, 3}, {67, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "#c0babc",
+  "name": "#C0BEBF",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
