@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "#FAFAFA"
+    "string": "#FFFCFC"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -54,7 +54,7 @@
     "x": 808.5,
     "y": 0
   },
-  "glyphBounds": "{{0, 3}, {65, 11}}",
+  "glyphBounds": "{{0, 3}, {65, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "#FAFAFA",
+  "name": "#FFFCFC",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

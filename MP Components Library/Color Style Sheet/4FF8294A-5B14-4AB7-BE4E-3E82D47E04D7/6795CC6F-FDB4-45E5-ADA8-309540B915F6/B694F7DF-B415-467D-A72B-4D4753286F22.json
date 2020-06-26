@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "#EDEDED"
+    "string": "#EDE8EA"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 68,
-    "x": 646.5,
+    "width": 67,
+    "x": 647,
     "y": 0
   },
-  "glyphBounds": "{{0, 3}, {68, 11}}",
+  "glyphBounds": "{{0, 3}, {67, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "#EDEDED",
+  "name": "#EDE8EA",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

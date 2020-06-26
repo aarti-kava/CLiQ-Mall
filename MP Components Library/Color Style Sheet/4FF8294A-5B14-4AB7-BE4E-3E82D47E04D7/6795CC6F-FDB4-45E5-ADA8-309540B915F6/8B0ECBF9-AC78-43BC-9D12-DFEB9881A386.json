@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "#F5F4F5"
+    "string": "#FAF5F7"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,8 +50,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 64,
-    "x": 729,
+    "width": 63,
+    "x": 729.5,
     "y": 0
   },
   "glyphBounds": "{{0, 3}, {63, 12}}",
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "#F5F4F5",
+  "name": "#FAF5F7",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
