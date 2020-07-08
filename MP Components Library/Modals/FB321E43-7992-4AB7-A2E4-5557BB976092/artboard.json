@@ -1,0 +1,177 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9254901960784314,
+    "green": 0.9254901960784314,
+    "red": 0.9254901960784314
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FB321E43-7992-4AB7-A2E4-5557BB976092",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "Journey 3",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 640,
+    "width": 360,
+    "x": 3492,
+    "y": -512
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "74A09039-F9D0-45FE-900D-C07B4A9C5793"
+    },
+    {
+      "class": "bitmap",
+      "id": "536B7258-FE3A-4AF4-A550-AF53B6A1E6F4"
+    },
+    {
+      "class": "rectangle",
+      "id": "C0F5DEFB-8AD2-4FB4-B049-162587B7B442"
+    },
+    {
+      "class": "group",
+      "id": "8898D6FF-C40A-494B-A107-DC9267473FE9"
+    },
+    {
+      "class": "group",
+      "id": "2A70C17F-D7DD-41F2-AB94-D8133931E4E3"
+    },
+    {
+      "class": "group",
+      "id": "B3FBD107-FC25-4441-BEE4-D8E7DA4EF214"
+    },
+    {
+      "class": "group",
+      "id": "8D7B87B1-104F-49AB-B0EF-DBFE090C7810"
+    },
+    {
+      "class": "group",
+      "id": "0D507B25-2A52-4328-8311-6EC8EC62C036"
+    },
+    {
+      "class": "rectangle",
+      "id": "ACC13456-CD52-4DE7-99C3-85F9F05B49F9"
+    },
+    {
+      "class": "group",
+      "id": "CFD59672-7E80-4EA5-A781-65BBA233E85B"
+    }
+  ],
+  "name": "2.3.1. Order received - COD_choose mode_default screen",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "D1569BBA-44D6-4844-8593-C7B3ABB2DA70",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "defaultStateName": "keyframe1",
+        "variableIDSketchID": "C08F671E-9B1F-45F9-B934-24239B695190"
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      89
+    ]
+  }
+}
