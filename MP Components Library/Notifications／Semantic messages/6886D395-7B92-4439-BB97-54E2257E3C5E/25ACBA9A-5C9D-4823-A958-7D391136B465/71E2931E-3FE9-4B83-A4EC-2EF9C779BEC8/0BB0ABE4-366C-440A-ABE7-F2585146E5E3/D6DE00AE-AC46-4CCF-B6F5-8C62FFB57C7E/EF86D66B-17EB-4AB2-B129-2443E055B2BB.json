@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3.535533905928707,
-    "width": 3.535533905934177,
-    "x": 1.353553390594277,
-    "y": 5.732233047039284
+    "height": 2.65165042944653,
+    "width": 2.651650429450633,
+    "x": 1.015165042945708,
+    "y": 4.299174785279464
   },
   "hasClippingMask": false,
   "isClosed": false,
@@ -65,7 +65,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 7.5,
       "saturation": 1,
       "type": 0
     },
@@ -126,7 +126,7 @@
         },
         "isEnabled": true,
         "position": 0,
-        "thickness": 1.5
+        "thickness": 1.125
       }
     ],
     "colorControls": {

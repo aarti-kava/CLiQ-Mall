@@ -58,12 +58,20 @@
       "id": "F30AC052-6363-48B8-977D-8582977A2684"
     },
     {
-      "class": "text",
-      "id": "520644B7-5578-42A5-84DC-77624E4283A9"
+      "class": "group",
+      "id": "25ACBA9A-5C9D-4823-A958-7D391136B465"
     },
     {
-      "class": "text",
-      "id": "36160BF6-E445-43FF-AB32-7C8998426264"
+      "class": "group",
+      "id": "4F50A22F-D4BB-481D-8FCB-4330F98C27A7"
+    },
+    {
+      "class": "group",
+      "id": "9CE4E892-DF05-47B7-94DE-073A65C062A0"
+    },
+    {
+      "class": "group",
+      "id": "12DF3355-D378-4210-B8BF-3EDE1E26D298"
     },
     {
       "class": "bitmap",
@@ -80,30 +88,6 @@
     {
       "class": "rectangle",
       "id": "09739C7C-F783-4E44-AD17-081E15B761A1"
-    },
-    {
-      "class": "group",
-      "id": "6D405071-CC20-44A0-9235-7CCBC43AD478"
-    },
-    {
-      "class": "group",
-      "id": "99F62A00-11D4-43B4-88D1-2DADBFC73AF6"
-    },
-    {
-      "class": "group",
-      "id": "F83496B4-B2DD-4551-B048-A49025D4110A"
-    },
-    {
-      "class": "group",
-      "id": "FF05A2D4-D41F-43F8-98A1-4AB91184F966"
-    },
-    {
-      "class": "group",
-      "id": "25ACBA9A-5C9D-4823-A958-7D391136B465"
-    },
-    {
-      "class": "group",
-      "id": "4F50A22F-D4BB-481D-8FCB-4330F98C27A7"
     }
   ],
   "name": "Desktop",

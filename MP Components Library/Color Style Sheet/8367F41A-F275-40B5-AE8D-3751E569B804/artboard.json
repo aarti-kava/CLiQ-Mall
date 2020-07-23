@@ -47,7 +47,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
@@ -60,10 +60,6 @@
     {
       "class": "group",
       "id": "808A9000-5D46-4231-BAEB-3E82A44B324C"
-    },
-    {
-      "class": "group",
-      "id": "EE63D94C-98D6-496E-B7B3-D9E74F8D59CE"
     },
     {
       "class": "group",
@@ -84,6 +80,10 @@
     {
       "class": "group",
       "id": "288EE445-8B78-4E7E-BB7D-F8DC7B207485"
+    },
+    {
+      "class": "group",
+      "id": "9FDCBEC9-B65A-4F33-8199-BD6C59ED434C"
     }
   ],
   "name": "Artboard",

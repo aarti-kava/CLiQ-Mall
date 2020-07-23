@@ -9,21 +9,21 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.03137254901960784,
-            "green": 0.5372549019607843,
-            "red": 0.7019607843137254
+            "blue": 0.07058823529411765,
+            "green": 0.5647058823529412,
+            "red": 0.7372549019607844
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Rubik-Regular",
-              "size": 11
+              "size": 10
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 15,
-            "minimumLineHeight": 15
+            "maximumLineHeight": 12,
+            "minimumLineHeight": 12
           }
         },
         "length": 38,
@@ -35,21 +35,21 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.03137254901960784,
-            "green": 0.5372549019607843,
-            "red": 0.7019607843137254
+            "blue": 0.07058823529411765,
+            "green": 0.5647058823529412,
+            "red": 0.7372549019607844
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PingFangSC-Regular",
-              "size": 11
+              "size": 10
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 15,
-            "minimumLineHeight": 15
+            "maximumLineHeight": 12,
+            "minimumLineHeight": 12
           }
         },
         "length": 1,
@@ -61,21 +61,21 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.03137254901960784,
-            "green": 0.5372549019607843,
-            "red": 0.7019607843137254
+            "blue": 0.07058823529411765,
+            "green": 0.5647058823529412,
+            "red": 0.7372549019607844
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Rubik-Regular",
-              "size": 11
+              "size": 10
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 15,
-            "minimumLineHeight": 15
+            "maximumLineHeight": 12,
+            "minimumLineHeight": 12
           }
         },
         "length": 26,
@@ -101,12 +101,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 30,
+    "height": 24,
     "width": 284,
-    "x": 32,
+    "x": 25,
     "y": 8
   },
-  "glyphBounds": "{{0, 2}, {269, 25}}",
+  "glyphBounds": "{{0, 2}, {258, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -171,21 +171,21 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0.4509803921568628,
-          "red": 0.6
+          "blue": 0.07058823529411765,
+          "green": 0.5647058823529412,
+          "red": 0.7372549019607844
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Rubik-Regular",
-            "size": 11
+            "size": 10
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "maximumLineHeight": 15,
-          "minimumLineHeight": 15
+          "maximumLineHeight": 12,
+          "minimumLineHeight": 12
         }
       },
       "verticalAlignment": 0

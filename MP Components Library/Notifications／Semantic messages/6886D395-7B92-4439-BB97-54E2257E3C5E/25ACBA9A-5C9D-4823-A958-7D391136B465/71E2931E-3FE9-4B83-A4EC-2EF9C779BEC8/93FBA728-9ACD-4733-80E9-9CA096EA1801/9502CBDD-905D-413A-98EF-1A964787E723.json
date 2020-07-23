@@ -16,10 +16,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 29.33333333333333,
-    "width": 29.33333333333333,
-    "x": -6.666666666666666,
-    "y": -6.666666666666666
+    "height": 22,
+    "width": 22,
+    "x": -5,
+    "y": -5
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -85,7 +85,7 @@
       "center": "{0.5, 0.5}",
       "isEnabled": false,
       "motionAngle": 0,
-      "radius": 10,
+      "radius": 7.5,
       "saturation": 1,
       "type": 0
     },
@@ -120,9 +120,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.04705882352941176,
-          "green": 0.6588235294117647,
-          "red": 0.8274509803921568
+          "blue": 0.07058823529411765,
+          "green": 0.5647058823529412,
+          "red": 0.7372549019607844
         },
         "contextSettings": {
           "_class": "graphicsContextSettings",

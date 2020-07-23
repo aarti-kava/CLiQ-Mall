@@ -9,21 +9,21 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.03137254901960784,
-            "green": 0.5372549019607843,
-            "red": 0.7019607843137254
+            "blue": 0.07058823529411765,
+            "green": 0.5647058823529412,
+            "red": 0.7372549019607844
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Rubik-Regular",
-              "size": 11
+              "size": 10
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "maximumLineHeight": 15,
-            "minimumLineHeight": 15
+            "maximumLineHeight": 12,
+            "minimumLineHeight": 12
           }
         },
         "length": 55,
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 16,
+    "height": 12,
     "width": 284,
-    "x": 32,
+    "x": 25,
     "y": 8
   },
-  "glyphBounds": "{{0, 3}, {281, 11}}",
+  "glyphBounds": "{{0, 1}, {255, 11}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -119,26 +119,26 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.03137254901960784,
-          "green": 0.5372549019607843,
-          "red": 0.7019607843137254
+          "blue": 0.07058823529411765,
+          "green": 0.5647058823529412,
+          "red": 0.7372549019607844
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Rubik-Regular",
-            "size": 11
+            "size": 10
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "maximumLineHeight": 15,
-          "minimumLineHeight": 15
+          "maximumLineHeight": 12,
+          "minimumLineHeight": 12
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 2
+  "textBehaviour": 1
 }
