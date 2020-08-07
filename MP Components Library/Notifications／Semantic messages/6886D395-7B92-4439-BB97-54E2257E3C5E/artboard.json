@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
+    "height": 1635,
     "width": 1440,
     "x": -720,
     "y": -512
@@ -74,6 +74,10 @@
       "id": "12DF3355-D378-4210-B8BF-3EDE1E26D298"
     },
     {
+      "class": "text",
+      "id": "76A5F70E-98B2-4E84-8884-7891650634A7"
+    },
+    {
       "class": "bitmap",
       "id": "102A612F-BF30-4265-8E54-0F8633ED6820"
     },
@@ -88,6 +92,26 @@
     {
       "class": "rectangle",
       "id": "09739C7C-F783-4E44-AD17-081E15B761A1"
+    },
+    {
+      "class": "group",
+      "id": "F8207372-A6BE-4E0E-9F84-3AF9A6AA29FD"
+    },
+    {
+      "class": "text",
+      "id": "E8A148BD-FD90-4C51-859E-25016CAA44B8"
+    },
+    {
+      "class": "group",
+      "id": "20A34B11-CF94-4068-9A0A-78FD100BEAC2"
+    },
+    {
+      "class": "group",
+      "id": "5D65733F-1A5A-4232-AE85-D7403D7FA612"
+    },
+    {
+      "class": "group",
+      "id": "E49B29E5-6587-4A85-B908-ACE877609E72"
     }
   ],
   "name": "Desktop",
