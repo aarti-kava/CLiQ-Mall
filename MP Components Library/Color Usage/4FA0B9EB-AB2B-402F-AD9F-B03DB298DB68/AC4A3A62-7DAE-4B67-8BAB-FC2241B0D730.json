@@ -52,9 +52,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 79,
+    "width": 81,
     "x": 161,
-    "y": 466
+    "y": 537
   },
   "glyphBounds": "{{0, 4}, {79, 14}}",
   "hasClippingMask": false,

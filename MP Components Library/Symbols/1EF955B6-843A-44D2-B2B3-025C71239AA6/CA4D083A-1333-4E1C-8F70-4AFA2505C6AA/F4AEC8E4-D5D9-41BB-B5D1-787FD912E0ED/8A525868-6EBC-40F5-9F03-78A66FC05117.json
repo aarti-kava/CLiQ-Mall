@@ -9,35 +9,34 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.1294117647058823,
-            "green": 0.1294117647058823,
-            "red": 0.1294117647058823
+            "blue": 0.5529411765,
+            "green": 0.5529411765,
+            "red": 0.5529411765
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Rubik-Regular",
-              "size": 18
+              "size": 12
             }
           },
-          "kerning": 0,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
+            "alignment": 2,
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
+          }
         },
-        "length": 22,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "White text on Green BG"
+    "string": "Home"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
+  "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "910CE781-4BDB-46E1-A509-19C2D6223315",
+  "do_objectID": "8A525868-6EBC-40F5-9F03-78A66FC05117",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 22,
-    "width": 195,
-    "x": 265,
-    "y": 257
+    "height": 24,
+    "width": 33,
+    "x": 0.5,
+    "y": 25
   },
-  "glyphBounds": "{{0, 4}, {193, 14}}",
+  "glyphBounds": "{{1, 7}, {32, 10}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,11 +64,13 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "White text on Green",
+  "name": "Home",
   "nameIsFixed": false,
+  "originalObjectID": "02839C43-8C10-442F-A08E-43817E883C36",
   "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "57365D03-8148-4A8A-923B-90FD2FAC19AD",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -105,7 +106,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "30DBCF62-71B8-428B-8173-451E42DB09CB",
+    "do_objectID": "877A2D52-FF54-4D0A-B1D0-3C7A24DCC2AA",
     "endMarkerType": 0,
     "fills": [
     ],
@@ -121,24 +122,23 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1294117647058823,
-          "green": 0.1294117647058823,
-          "red": 0.1294117647058823
+          "blue": 0.5529411765,
+          "green": 0.5529411765,
+          "red": 0.5529411765
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Rubik-Regular",
-            "size": 18
+            "size": 12
           }
         },
-        "kerning": 0,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
-        },
-        "textStyleVerticalAlignmentKey": 0
+          "alignment": 2,
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
+        }
       },
       "verticalAlignment": 0
     },

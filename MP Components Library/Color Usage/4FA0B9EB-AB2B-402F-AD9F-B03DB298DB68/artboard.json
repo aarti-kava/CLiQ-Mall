@@ -62,10 +62,6 @@
       "id": "CEE0AF5E-1C9A-4BDC-AFB6-AE53F590AADC"
     },
     {
-      "class": "symbolInstance",
-      "id": "435B62D3-07B6-4AF8-BCB3-18E15423B01E"
-    },
-    {
       "class": "text",
       "id": "3D3F47A4-DE32-45FD-A5AC-DD3DF7EA67F3"
     },
@@ -83,7 +79,7 @@
     },
     {
       "class": "text",
-      "id": "910CE781-4BDB-46E1-A509-19C2D6223315"
+      "id": "FE3C0A56-D740-40ED-983D-C7024D60C46F"
     },
     {
       "class": "text",
@@ -100,6 +96,14 @@
     {
       "class": "text",
       "id": "F458D462-BF88-4BA2-A7D8-141F0D5E5BEC"
+    },
+    {
+      "class": "text",
+      "id": "7DAEEFE3-DB39-4168-BA8C-959344855C6A"
+    },
+    {
+      "class": "text",
+      "id": "78C86807-8093-4B39-8C82-B2657A9C04BA"
     },
     {
       "class": "text",
@@ -124,6 +128,18 @@
     {
       "class": "group",
       "id": "623959FD-F6BC-4736-83A0-8F00F9E0AD37"
+    },
+    {
+      "class": "rectangle",
+      "id": "45DCDF32-6CA5-4D61-AE03-0F2A11EE3AC3"
+    },
+    {
+      "class": "text",
+      "id": "94B5F56D-D271-4D8F-A1B9-FE01FDFBC0B2"
+    },
+    {
+      "class": "shapePath",
+      "id": "E9363455-7019-4D8A-B427-3B52A3D4F046"
     }
   ],
   "name": "Desktop",
