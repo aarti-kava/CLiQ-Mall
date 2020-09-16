@@ -1,0 +1,118 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4399A60C-39CC-4857-9837-9C4A4C5817E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 274,
+    "width": 160,
+    "x": 20,
+    "y": 43
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "name": "Group 27",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4CC5F1CC-D134-462F-8810-298338655A25_stringValue",
+      "value": "Women Pleasures Eau De Parfum "
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "87387C66-0FCE-4F8A-97B3-EA47F27FF063_stringValue",
+      "value": "₹6,700"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A58D546E-7F10-40D9-9F78-373ACF93A821_symbolID",
+      "value": "3155E1A2-A513-4B76-BD50-EFF4D2092C4F"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A1B432B4-C718-44E2-B4FF-A4B3002C4187_symbolID",
+      "value": "5300C74E-8ECD-4A82-951B-753D57AC064D"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "A1B432B4-C718-44E2-B4FF-A4B3002C4187/5A19F8B1-A15D-4410-974D-A71D298937DB_stringValue",
+      "value": "60 ml"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4AC046CF-7CF0-4F7C-AC52-FFA24D6D3DEE/837DAD44-97D3-43A5-96DE-26E0954D827F_stringValue",
+      "value": "3.9"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "5739E68C-3BCC-45A7-B511-F06695F344D8",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "09CB77FC-C465-4D40-AD74-2CCDA36D30B9",
+  "verticalSpacing": 0
+}
