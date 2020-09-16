@@ -31,7 +31,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 812,
+    "height": 1211,
     "width": 375,
     "x": -1122,
     "y": 217
@@ -99,6 +99,10 @@
     {
       "class": "group",
       "id": "0243F596-BFC0-4EED-8C45-A540C3D03D2B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "37134D84-29DF-4B9F-8391-D237C01BCEC7"
     }
   ],
   "name": "R&R PDP WIdget",
