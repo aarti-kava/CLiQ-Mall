@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 7,
+        "length": 6,
         "location": 0
       }
     ],
-    "string": "#338715"
+    "string": "499B1F"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 22,
-    "width": 73,
+    "width": 63,
     "x": 161,
     "y": 257
   },
-  "glyphBounds": "{{0, 4}, {73, 14}}",
+  "glyphBounds": "{{0, 4}, {62, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,8 +64,8 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
-  "name": "#338715",
+  "lineSpacingBehaviour": 3,
+  "name": "499B1F",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,

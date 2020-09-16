@@ -1,0 +1,123 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0471FBA8-9AA3-4A66-A992-04C610E00FE9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 544,
+    "width": 375,
+    "x": 0,
+    "y": 86
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "a/rnr/widget",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C9FBB5B0-3645-487F-A198-AB2618B6A008/2E79A5A0-2528-478F-AA75-E39E01C8981A/29C9668A-F93D-4943-8563-11C52B92664E/032B2E86-C4A6-4909-8F6D-0554E444AF72_stringValue",
+      "value": "Camera Quality"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C9FBB5B0-3645-487F-A198-AB2618B6A008/3114CFAC-E660-49FD-83FE-991CA4BA522B/8FC91A38-9038-456D-9127-7FACC3C737F3/032B2E86-C4A6-4909-8F6D-0554E444AF72_stringValue",
+      "value": "Value for Money"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C9FBB5B0-3645-487F-A198-AB2618B6A008/712F22C8-3D91-4807-AA6F-F841705A709D/29C9668A-F93D-4943-8563-11C52B92664E/032B2E86-C4A6-4909-8F6D-0554E444AF72_stringValue",
+      "value": "Display Vibrancy"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C9FBB5B0-3645-487F-A198-AB2618B6A008/71CAEBBD-1B0F-47C1-B350-930802020693/29C9668A-F93D-4943-8563-11C52B92664E/032B2E86-C4A6-4909-8F6D-0554E444AF72_stringValue",
+      "value": "Battery\nLife"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "393E2711-1128-4E0D-9846-02F15BEC4CE3/2B5F6DF7-FE5F-420B-AA40-57DBB907F0D7/67F6C49E-78DA-49DF-AEF9-4CB3F4B7CB75_stringValue",
+      "value": "Neeraja K. Narayan"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C9FBB5B0-3645-487F-A198-AB2618B6A008/2E79A5A0-2528-478F-AA75-E39E01C8981A/64563931-E35D-424E-A20F-7EC9B0D76060_symbolID",
+      "value": "2C9FF93A-9B85-4D2E-BE32-DF8301154B14"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "C9FBB5B0-3645-487F-A198-AB2618B6A008/712F22C8-3D91-4807-AA6F-F841705A709D/64563931-E35D-424E-A20F-7EC9B0D76060_symbolID",
+      "value": "2C24E83D-663B-49F4-8B0E-F43114D06A2F"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "47815744-043B-4236-9CEC-55210972057C",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F6B06C81-24C4-404C-929A-7E6FE4B4800F",
+  "verticalSpacing": 0
+}
