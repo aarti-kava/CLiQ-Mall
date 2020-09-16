@@ -1,6 +1,5 @@
 {
   "_class": "document",
-  "agreedToFontEmbedding": false,
   "assets": {
     "_class": "assetCollection",
     "colorAssets": [
@@ -22,7 +21,6 @@
     "images": [
     ]
   },
-  "autoEmbedFonts": false,
   "colorSpace": 0,
   "do_objectID": "2F8F338B-9A3D-4C8B-86A6-59AC5D9C17B2",
   "fontReferences": [
@@ -261,9 +259,9 @@
     ]
   },
   "meta": {
-    "appVersion": "67.2",
-    "build": 100443,
-    "version": 130
+    "appVersion": "68.1",
+    "build": 102560,
+    "version": 131
   },
   "pages": [
     "Color Style Sheet",
