@@ -119,7 +119,7 @@
       "do_objectID": "701A6809-000D-4540-924F-535C882D1B4E",
       "fontFamilyName": "Roboto",
       "fontFileName": "Roboto-Medium.ttf",
-      "options": 0,
+      "options": 2,
       "postscriptNames": [
         "Roboto-Medium"
       ]
@@ -169,7 +169,7 @@
       "do_objectID": "BACC66E1-D8B5-4971-958C-6BF25BB7C5FA",
       "fontFamilyName": "Roboto",
       "fontFileName": "Roboto-Regular.ttf",
-      "options": 0,
+      "options": 2,
       "postscriptNames": [
         "Roboto-Regular"
       ]
@@ -6486,6 +6486,7 @@
     "Color Style Sheet",
     "Modals",
     "Color Usage",
+    "Buttons",
     "Notifications/Semantic messages",
     "Cards",
     "Icons",

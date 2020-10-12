@@ -49,9 +49,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 66,
-    "x": 647.5,
+    "height": 18,
+    "width": 65,
+    "x": 648,
     "y": 0
   },
   "glyphBounds": "{{0, 3}, {65, 11}}",
@@ -62,7 +62,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "lineSpacingBehaviour": 2,
+  "lineSpacingBehaviour": 3,
   "name": "#FFD9E4",
   "nameIsFixed": false,
   "resizingConstraint": 47,

@@ -30,7 +30,7 @@
         "location": 0
       }
     ],
-    "string": "#F5F2F3"
+    "string": "#F7F5F6"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 64,
-    "x": 729,
+    "height": 18,
+    "width": 62,
+    "x": 730,
     "y": 0
   },
-  "glyphBounds": "{{0, 3}, {63, 12}}",
+  "glyphBounds": "{{0, 3}, {62, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "#F5F2F3",
+  "name": "#F7F5F6",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
