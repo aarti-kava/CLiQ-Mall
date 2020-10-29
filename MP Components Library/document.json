@@ -23,6 +23,9 @@
   },
   "colorSpace": 0,
   "do_objectID": "2F8F338B-9A3D-4C8B-86A6-59AC5D9C17B2",
+  "documentState": {
+    "_class": "documentState"
+  },
   "fontReferences": [
     {
       "_class": "fontReference",
@@ -265,7 +268,6 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 1204,
         "clippingMaskMode": 0,
         "do_objectID": "E2949E67-D6A4-43BE-B3DF-80705DD5BF3F",
         "exportOptions": {
@@ -3044,7 +3046,6 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 1250,
         "clippingMaskMode": 0,
         "do_objectID": "E2949E67-D6A4-43BE-B3DF-80705DD5BF3F",
         "exportOptions": {
@@ -5828,7 +5829,6 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 874,
         "clippingMaskMode": 0,
         "do_objectID": "F2B50B02-EF53-42EF-99DE-6FA2A456EB91",
         "exportOptions": {
@@ -6150,7 +6150,6 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 911,
         "clippingMaskMode": 0,
         "do_objectID": "F2B50B02-EF53-42EF-99DE-6FA2A456EB91",
         "exportOptions": {
@@ -6474,13 +6473,14 @@
   ],
   "layerSymbols": {
     "_class": "symbolContainer",
+    "do_objectID": "00B316A5-9826-4C8B-86A6-52AE5DBD6EDF",
     "objects": [
     ]
   },
   "meta": {
-    "appVersion": "68.2",
-    "build": 102594,
-    "version": 131
+    "appVersion": "69.1",
+    "build": 107496,
+    "version": 134
   },
   "pages": [
     "Color Style Sheet",
@@ -6497,6 +6497,7 @@
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
+    "do_objectID": "16BF12A5-9826-4C8B-86A6-52AE5DBD60D3",
     "objects": [
     ]
   },
