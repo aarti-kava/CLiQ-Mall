@@ -212,7 +212,7 @@
       "do_objectID": "E164CA4C-593B-4487-9BF3-5EB21AC1A89A",
       "fontFamilyName": "Rubik",
       "fontFileName": "Rubik-Italic.ttf",
-      "options": 0,
+      "options": 2,
       "postscriptNames": [
         "Rubik-Italic"
       ]
@@ -6478,12 +6478,13 @@
     ]
   },
   "meta": {
-    "appVersion": "69.1",
-    "build": 107496,
+    "appVersion": "70.2",
+    "build": 109071,
     "version": 134
   },
   "pages": [
     "Color Style Sheet",
+    "Text Style",
     "Modals",
     "Color Usage",
     "Buttons",

@@ -1,0 +1,190 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "47A654EA-0ACD-4509-842E-D49C20C3EA2A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 657,
+    "width": 771,
+    "x": -316,
+    "y": -384
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "10BD6D0B-035A-45AB-B528-FD7587EF14EC"
+    },
+    {
+      "class": "text",
+      "id": "B08EBA5E-6293-4591-B0BB-D0B8236E2264"
+    },
+    {
+      "class": "text",
+      "id": "D3D4FBED-E83E-4081-A359-FB991C969E98"
+    },
+    {
+      "class": "text",
+      "id": "8325CEE1-2DB1-442B-922A-348EAD6A4E97"
+    },
+    {
+      "class": "text",
+      "id": "4EFC90F1-0344-4595-8FD1-A38927BA77D8"
+    },
+    {
+      "class": "text",
+      "id": "F90B0663-1FDA-4B80-B36A-EE466E52CF90"
+    },
+    {
+      "class": "text",
+      "id": "92742186-56B3-4B72-ACF4-224B2214680D"
+    },
+    {
+      "class": "text",
+      "id": "153E2AD7-2E48-4EDA-913F-4E6FAC49BD1E"
+    },
+    {
+      "class": "text",
+      "id": "1A5F4802-FB48-42C6-96ED-B3BCDC65A9ED"
+    },
+    {
+      "class": "text",
+      "id": "970BA908-DE19-4FCC-A045-0DC856DFF70E"
+    },
+    {
+      "class": "text",
+      "id": "18E36369-0D66-4842-961A-C961D285127C"
+    },
+    {
+      "class": "text",
+      "id": "E9EDDB2E-33CF-46AE-B1FE-F1DB250B3499"
+    },
+    {
+      "class": "text",
+      "id": "1DF30573-CDEC-46DB-BC69-C495564DF2D8"
+    },
+    {
+      "class": "text",
+      "id": "500BE839-9499-4EE5-909D-7F546FABAAEC"
+    },
+    {
+      "class": "text",
+      "id": "8061021E-6026-4C1B-AC4D-7CE4CDE2B9D1"
+    },
+    {
+      "class": "text",
+      "id": "7072ADF7-8BAB-41DE-B200-5B7FB1B07F31"
+    },
+    {
+      "class": "text",
+      "id": "EED80EF8-958A-4F74-A7C8-04FEF4B43400"
+    },
+    {
+      "class": "text",
+      "id": "FB7F6BEB-6BE8-4BA2-8DAA-A00A8F678018"
+    },
+    {
+      "class": "text",
+      "id": "B82EAF37-8543-476E-8169-0A24CCB4CF6A"
+    }
+  ],
+  "name": "Artboard",
+  "nameIsFixed": false,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "FE6E8CFE-9C21-4256-88C6-ACB19408065A",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
